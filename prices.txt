@@ -6,4 +6,4 @@ Apple ------ 75 cad
 Lemon ------- 15 cad
 Pineapple ----- 22 cad
 Lime -------- 5 cad
-
+Pear - 100 cad
