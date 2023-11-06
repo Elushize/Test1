@@ -1,0 +1,9 @@
+Mango ---- 50 cad
+Orange ----- 20 cad
+Pawpaw ------ 23 cad
+Coconut ----- 35 cad
+Apple ------ 75 cad
+Lemon ------- 15 cad
+Pineapple ----- 22 cad
+Lime -------- 5 cad
+
