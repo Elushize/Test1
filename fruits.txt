@@ -6,3 +6,5 @@ Apple
 Lemon
 Pineapple
 Lime
+Pear
+Watermelon
